@@ -41,4 +41,10 @@ ros2 run campus_tour campus_map.py
 ```
 
 **Example Simulation:**
+1. Visitor 1 is escorted to the CSE Department, where the BI Agent provides navigation assistance after verifying their authorization.
+2. Visitor 2 is escorted to the AI Department, and the BI Agent assists with navigation after verifying their authorization.
+3. Visitor 3 is escorted to the Cafeteria, where the BI Agent goes OOS for 2 minutes to host after verifying their authorization.
+4. Visitor 4 waits for 2 minutes while Visitor 2 meets the host, then is escorted to the AI Department after Visitor 2 leaves.
+5. Visitor 5 is denied access to the Director's Office by the BI Agent due to lack of proper authorization.
+
 ![agent_traversal](https://github.com/user-attachments/assets/474b7aaf-4079-41df-abca-b2314aee79f0)
