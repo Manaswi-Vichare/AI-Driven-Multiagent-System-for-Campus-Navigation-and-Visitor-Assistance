@@ -1,0 +1,4 @@
+pyyaml
+crewai
+networkx
+matplotlib
