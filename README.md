@@ -47,4 +47,4 @@ ros2 run campus_tour campus_map.py
 4. Visitor 4 waits for 2 minutes while Visitor 2 meets the host, then is escorted to the AI Department after Visitor 2 leaves.
 5. Visitor 5 is denied access to the Director's Office by the BI Agent due to lack of proper authorization.
 
-![agent_traversal](https://github.com/user-attachments/assets/474b7aaf-4079-41df-abca-b2314aee79f0)
+<img src="https://github.com/user-attachments/assets/474b7aaf-4079-41df-abca-b2314aee79f0" width="600" />
