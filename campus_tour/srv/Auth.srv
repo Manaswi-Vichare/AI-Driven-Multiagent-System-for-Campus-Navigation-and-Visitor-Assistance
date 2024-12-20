@@ -1,0 +1,5 @@
+string bi_agent
+string visitor_id
+string location
+---
+bool authorized
