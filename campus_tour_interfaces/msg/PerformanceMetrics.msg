@@ -1,0 +1,5 @@
+string agent_name
+string agent_type
+int32 visitors_entertained
+int32 ci_agents_guided
+int32 violations
